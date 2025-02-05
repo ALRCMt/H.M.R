@@ -5,13 +5,12 @@
 <div align="center">
 <h1 align="center">湖南马列毛资料库 H.M.R.<br />Hunan MLM Documents-Repository</h1>
 
-<p>这里是<strong>"湖南马列毛"</strong>资料库，由一名湖南学生整理
+<p>这里是<strong>"湖南马列毛"</strong>GitHub库，由一名湖南学生整理
 
 额，因为这个那个，及本人理论水平不是很高等原因，分类额嗯...啊过程也非常让人头疼，
 经过了前前后后反复摆烂，肯定不是非常客观，所以还是祝你<u>**善用搜索功能**</u>..吧
 
-
-[![Github](https://img.shields.io/badge/Github-ALRCMt-black.svg)](https://github.com/ALRCMt)
+[![HMR网站](https://img.shields.io/badge/HMR网站-n.hmr—data.click-orange.svg)](http://n.hmr-data.click:1949)
 [![QQ](https://img.shields.io/badge/QQ-ALRCMt-white.svg)](https://qm.qq.com/q/4uVkK9nRPW?personal_qrcode_source=3)
 [![邮箱](https://img.shields.io/badge/邮箱-b122330417@163.com-orange.svg)](mailto:b122330417@163.com)
 [![Bilibili](https://img.shields.io/badge/Bilibili-ALRC_Mt(被封)-pink.svg)](https://space.bilibili.com/483215864?spm_id_from=333.1007.0.0)
