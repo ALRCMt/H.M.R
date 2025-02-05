@@ -99,70 +99,104 @@
 ****
 
 -->
- ## 一些文章书籍来源
-  如果打不开就挂全局代理(VPN)
-### 参考书籍电子档网址
-
-  1.鸠摩搜书
-http://www.jiumodiary.com
-
-
-  2.Zlibrary
-https://zh.b-ok.org/
-
-
-  3.无产阶级图书馆
-https://library.proletarian.me/
-
-
-  4.PDFDRIVE
-https://www.pdfdrive.com/ 
-
-
-  5.Library Genesis:
-https://libgen.unblockit.bet/
-
-
-  6.国家哲学社会科学文献中心
-http://www.ncpssd.org/index.aspx
-
-
-  7.全国图书馆参考咨询联盟
-http://www.ucdrs.superlib.net/ 
-
-
-  8.Open Textbook Library
-https://open.umn.edu/opentextbooks/ 
-
-
-  9.The Online Books Page
-https://onlinebooks.library.upenn.edu/ 
-
-
-  10.易书
-https://nav.yibook.org/ 
-
-### 左翼时事评论网址
-
-  1.国际共产主义官网
-https://ci-ic.org
-
-  2.乌有之乡
-http://wyzxwk.com
-
-  3.燎原革命导航
-https://liaoyuan.store
-
-  中华人民共和国历史小组 
-http://prchistory.org
-
-  JOJO看报 
-https://reader.jojokanbao.cn
-
-  燎原月刊 
-https://github.com/monthlyliaoyuan/monthlyliaoyuan
-
-
+<h1>一些文章书籍来源</h1>
+		<i>如果打不开就挂全局代理(VPN)</i><br />
+		<hr color="#454545"  />
+		<h3 style="padding: 0px 0px 0px 50px;" id="m1">电子档书籍网址</h3>
+	     <ol >
+			<br />
+			<li ><a class="tuj" target="_blank" href="https://zh.z-lib.gs/"><span>Zlibrary</span> <span class="url"> https://zh.z-lib.gs/</span></a></li>
+			<br />
+			<li><a class="tuj" target="_blank" href="https://reader.jojokanbao.cn/"> <span>JOJO看报</span> <span class="url"> https://reader.jojokanbao.cn/</span></a></li>
+			<br />
+			<li ><a  class="tuj" target="_blank" href="https://www.jiumodiary.com"> <span>鸠摩搜书</span><span class="url"> https://www.jiumodiary.com</span></a></li>
+			<br />
+			<li><a class="tuj" target="_blank" href="http://www.ncpssd.org/index.aspx"><span>国家哲学社会科学文献中心</span><span class="url"> http://www.ncpssd.org/index.aspx</span></a></li>
+			<br />
+			<li ><a class="tuj" target="_blank" href="http://www.ucdrs.superlib.net"><span>全国图书馆参考咨询联盟</span> <span class="url"> http://www.ucdrs.superlib.net</span></a></li>
+			<br />
+			<li ><a class="tuj" target="_blank" href="https://zh.annas-archive.se/"><span> 安娜的档案</span> <span class="url"> https://zh.annas-archive.se/</span></a></li>
+			<br />
+			<li ><a class="tuj" target="_blank" href="https://library.proletarian.me/"><span>无产阶级图书馆</span><span class="url"> https://library.proletarian.me/</span></a></li>
+			<br />
+			<li><a class="tuj" target="_blank" href="http://prchistory.org/"><span>中国历史小组 外文</span><span class="url"> http://prchistory.org/</span></a></li>
+			<br />
+			<li><a class="tuj" target="_blank" href="https://www.marxists.org"><span>马克思主义文库</span><span class="url"> https://www.marxists.org</span></a></li>
+			<br />
+			<li ><a  class="tuj" target="_blank" href="http://www.mzdbl.cn/"> <span>毛泽东博览（毛泽东资料库）</span><span class="url"> http://www.mzdbl.cn/</span></a></li>
+			<br />
+			<li><a class="tuj" target="_blank" href="http://geming.20m.com/"> <span>中国革命历史文献资料</span> <span class="url"> http://geming.20m.com/</span></a></li>
+			<br />
+			<li ><a  class="tuj" target="_blank" href="https://github.com/bitface9527/maoism-"> <span>马列毛主义互联网Github库</span><span class="url">https://github.com/bitface9527/maoism-</span></a></li>
+			<br />
+			<li ><a  class="tuj" target="_blank" href="https://github.com/ProletRevDicta/Prolet"> <span>马列毛Github资料库</span><span class="url"> https://github.com/ProletRevDicta/Prolet</span></a></li>
+			<br />
+			<li ><a  class="tuj" target="_blank" href="https://www.linbiao.org/forum/index.php"> <span>文革林彪资料</span><span class="url"> https://www.linbiao.org/forum/index.php</span></a></li>
+			<br />
+			<li ><a  class="tuj" target="_blank" href="https://rusmaoparty.org/library/"> <span>俄罗斯毛主义党资料库 外文</span><span class="url"> https://rusmaoparty.org/library/</span></a></li>
+			<br />
+			<li ><a  class="tuj" target="_blank" href="http://www.marx2mao.com/"> <span>从马克思到毛泽东 外文</span><span class="url"> http://www.marx2mao.com/</span></a></li>
+			<br />
+			<li ><a  class="tuj" target="_blank" href="https://www.bannedthought.net/"> <span>bannedthought資料庫 外文</span><span class="url"> https://www.bannedthought.net/</span></a></li>
+			<br />
+			<li ><a  class="tuj" target="_blank" href="https://t.me/DFMLMlib"> <span>东风-马列毛文献资料库 TG</span><span class="url"> https://t.me/DFMLMlib</span></a></li>
+			<br />
+			<li ><a  class="tuj" target="_blank" href="https://t.me/prorevhisdata"> <span>无产阶级革命历史资料 TG</span><span class="url"> https://t.me/prorevhisdata</span></a></li>
+			<br />
+			<li ><a  class="tuj" target="_blank" href="https://wengewang.org/"> <span>中国文革研究网</span><span class="url"> https://wengewang.org/</span></a></li>
+			<br />
+         <li><a  class="tuj" target="_blank" href="https://open.umn.edu/opentextbooks"> <span>OpenTextbookLibrary</span><span class="url"> https://open.umn.edu/opentextbooks</span></a></li>
+			<br />
+			<li ><a class="tuj" target="_blank" href="https://www.pdfdrive.com"><span>PDFDRIVE </span><span class="url"> https://www.pdfdrive.com/</span></a></li>
+		    <br />
+		</ol>
+		 <hr color="#454545"  />
+		<h3 style="padding: 0px 0px 0px 50px; "id="m2">左翼网址</h3>
+		 <ol>
+			<br />
+			<li><a class="tuj" target="_blank" href="https://ci-ic.org"><span>国际共产主义者同盟</span> <span class="url"> https://ci-ic.org</span></a></li>
+			<br />
+			<li><a class="tuj" target="_blank" href="http://wyzxwk.com"> <span>乌有之乡</span><span class="url"> http://wyzxwk.com</span></a></li>
+			<br />
+			<li><a class="tuj" target="_blank" href="https://github.com/monthlyliaoyuan/monthlyliaoyuan"><span>燎原月刊Github </span><span class="url"> https://github.com/monthlyliaoyuan/monthlyliaoyuan</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://maozhuyi.home.blog"><span>马列毛图书馆 </span><span class="url"> https://maozhuyi.home.blog</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://cpcommunity.flarum.cloud"><span>中国共产党者社区 </span><span class="url"> https://cpcommunity.flarum.cloud</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://marxist.tw"><span>火花-台湾革命共产国际</span><span class="url"> https://marxist.tw</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://t.me/longlivemarxleninmaoist"><span>马列毛主义与革命左翼大群 TG</span><span class="url"> https://t.me/longlivemarxleninmaoist</span></a></li>
+		    <br />
+		    <li><a class="tuj" target="_blank" href="https://liaoyuan.store"><span>燎原革命导航</span><span class="url"> https://liaoyuan.store</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://proletarianstruggles.wordpress.com"><span>中国无产阶级斗争报</span><span class="url"> https://proletarianstruggles.wordpress.com</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://longlivemarxleninmaoism.online"><span>布站</span><span class="url"> https://longlivemarxleninmaoism.online</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://jiliuwang.net/"><span>激流网</span><span class="url"> https://jiliuwang.net/</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="http://www.gczyqzggpy.com/"><span>共产主义旗帜网</span><span class="url"> http://www.gczyqzggpy.com/</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://clb.org.hk/en"><span>中国劳工报</span><span class="url"> https://clb.org.hk/en</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://mlmmlm-icu.github.io/t/topic/index.html"><span>马列毛群众</span><span class="url"> https://mlmmlm-icu.github.io/t/topic/index.html</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://pukainti.blogspot.com/?m=1"><span>红色太阳 新聞 外文</span><span class="url"> https://pukainti.blogspot.com/?m=1</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="http://www.marxist.com/"><span>保衛馬克思 新聞 外文</span><span class="url"> http://www.marxist.com/</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://irn.red/"><span>IRN国际红色通讯</span><span class="url"> hhttps://irn.red/</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://difangwenge.org/"><span>文革与当代史研究网</span><span class="url"> https://difangwenge.org/</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="http://redchinacn.net/"><span>红色中文网</span><span class="url"> http://redchinacn.net/</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://t.me/gczy2022"><span>革命火炬 TG</span><span class="url"> https://t.me/gczy2022</span></a></li>
+		    <br />
+			<li><a class="tuj" target="_blank" href="https://t.me/laborpower"><span>工劳快讯：关注当代打工人 TG</span><span class="url"> https://t.me/laborpower</span></a></li>
+		    <br />		
+		</ol>
 
 
 <div align="CENTER">
