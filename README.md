@@ -32,7 +32,7 @@
 </div>
 
 
-尽管是为学习****马列毛****所建，本库仍收录了许多不同论调甚至偏向反动的文章、著作，皆不作删改，请各位批判看到待
+尽管是为学习****马列毛****所建，本库仍收录了许多不同论调甚至偏向极端的文章、著作，皆不作删改，请各位批判看到待
 
 但请注意，不管你相信马列毛主义、社民主义、无政府主义还是自由主义，也无论你是唯物主义者、不可知论者或随便什么论者，**_思考_** 都是重要的，请辩证地对待每一篇文章，既不盲目否定，也不轻信。人既然都有思维能力，为什么不能尝试去思考，去怀疑，未必别人说的就对或都不对，一定要联系一定要联系自身实际，再得出结论。
 
@@ -105,7 +105,7 @@
 		<h3 style="padding: 0px 0px 0px 50px;" id="m1">电子档书籍网址</h3>
 	     <ol >
 			<br />
-			<li ><a class="tuj" target="_blank" href="https://zh.z-lib.gs/"><span>Zlibrary</span> <span class="url"> https://zh.z-lib.gs/</span></a></li>
+			<li ><a class="tuj" target="_blank" href="https://z-lib.gs/"><span>Zlibrary</span> <span class="url"> https://z-lib.gs/</span></a></li>
 			<br />
 			<li><a class="tuj" target="_blank" href="https://reader.jojokanbao.cn/"> <span>JOJO看报</span> <span class="url"> https://reader.jojokanbao.cn/</span></a></li>
 			<br />
