@@ -3,7 +3,7 @@
 
 </div>
 <div align="center">
-<h1 align="center">湖南马列毛资料库 H.M.R.<br />Hunan MLM Documents-Repository</h1>
+<h1 align="center">湖南马列毛资料库（服务暂时停止） H.M.R.<br />Hunan MLM Documents-Repository</h1>
 
 <p>这里是<strong>"湖南马列毛"</strong>GitHub库，由一名湖南学生整理
 
