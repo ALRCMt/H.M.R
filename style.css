@@ -1,0 +1,37 @@
+
+  /* *{
+  border: 3px solid green;
+} 
+*/
+body {
+   margin :0;
+   height: 100vh;
+   background-color:#5c5c5c;
+}
+ul:not(.cd){
+  display:flex;
+     position: fixed;
+     top: 0;
+     margin: 0;
+     padding: 0;
+     width: 100%;
+     list-style-type: none;
+     overflow: hidden;
+     background-color: #91212b;
+     font-size: 13px;
+
+}
+ul li {
+   
+   flex:1;
+}
+.lj {
+   color: #4b8df7;
+}
+.lh {
+   color: #f5ca5f;
+}
+.active{
+  background-color: #c0c0c0;
+  color: black;
+}
