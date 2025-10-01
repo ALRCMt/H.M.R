@@ -1,3 +1,15 @@
+
+
+<h2>写在一切之后</h2>
+
+自HCSR项目建立经历了一系列的技术与实际问题，尽管不断进行修改更新，经过我长时间思考，决定终止该项目  
+但是，这并不意味着放弃HSCR，后续我也会继续整理开发，但是一切将从零开始，不会沿着原来的方向   
+所以，这里已经是一个历史项目了，处于纪念意义，保留原文档  
+
+以下为历史文档
+
+<hr />
+
 <div align="CENTER">
 <img src="https://img520.com/H4ehGx.png" alt="HSCR" width="150px"/>
 
@@ -10,7 +22,7 @@
 额，因为这个那个，及本人理论水平不是很高等原因，分类额嗯...啊过程也非常让人头疼，
 经过了前前后后反复摆烂，肯定不是非常客观，所以还是祝你<u>**善用搜索功能**</u>..吧
 
-[![HMR网站](https://img.shields.io/badge/HMR网站-n.hmr—data.click:1949-%23f5ca5f.svg)](http://n.hmr-data.click:1949)
+[![HMR网站](https://img.shields.io/badge/HMR网站-(已下线)-%23f5ca5f.svg)](#)
 [![QQ](https://img.shields.io/badge/QQ-ALRCMt-white.svg)](https://qm.qq.com/q/4uVkK9nRPW?personal_qrcode_source=3)
 [![邮箱](https://img.shields.io/badge/邮箱-b122330417@163.com-blue.svg)](mailto:b122330417@163.com)
 [![Bilibili](https://img.shields.io/badge/Bilibili-ALRC_Mt-pink.svg)](https://space.bilibili.com/483215864?spm_id_from=333.1007.0.0)
